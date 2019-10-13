@@ -1,0 +1,13 @@
+Desktop SLA 3D printers contain a resin tank with a transparent base and non-stick surface, which serves as a substrate for the liquid resin to cure against, allowing for the gentle detachment of newly-formed layers.
+The printing process starts as the build platform descends into a resin tank, leaving space equal to the layer height in between the build platform, or the last completed layer, and the bottom of the tank. A laser points at two mirror galvanometers, which direct the light to the correct coordinates on a series of mirrors, focusing the light upward through the bottom of the tank and curing a layer of resin. 
+
+The cured layer then gets separated from the bottom of the tank and the build platform moves up to let fresh resin flow beneath. The process repeats until the print is complete. 
+
+Low Force Stereolithography (LFS) technology, used by the Form 3 and Form 3L, is the next phase in SLA 3D printing. 
+
+In LFS 3D printers, the optics are enclosed in a Light Processing Unit (LPU). Within the LPU, a galvanometer positions the high-density laser beam in the Y direction, passes it through a spatial filter, and directs it to a fold mirror and parabolic mirror to consistently deliver the beam perpendicular to the build plane and ensure accurate, repeatable prints. 
+
+As the LPU moves in the X direction, the printed part is gently peeled away from the flexible bottom of the tank, which drastically reduces the forces exerted on parts during the print process.
+LFS 3D printing drastically reduces the forces exerted on parts during the print process, using a flexible tank and linear illumination to deliver incredible surface quality and print accuracy. 
+
+This advanced form of stereolithography delivers vastly improved surface quality and print accuracy. Lower print forces also allow for light-touch support structures that tear away with ease, and the process opens up a wide range of possibilities for future development of advanced, production-ready materials.
